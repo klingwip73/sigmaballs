@@ -1,3 +1,3 @@
 #sigmaballs
 
-[click here](https://google.com)
+[click here](https://eaglercraft.com/mc/1.8.8)
