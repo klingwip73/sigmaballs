@@ -1,3 +1,5 @@
 # sigmaballs
 
-[click here](https://google.com)
+[google](https://google.com)
+[google translate](https://translate.google.com)
+[crazygames](https://crazygames.com)
